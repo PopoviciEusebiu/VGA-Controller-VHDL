@@ -1,0 +1,1 @@
+This is the VHDL code for the VGA Controller project, functional and tested on the BASYS 3 board. In this project, through a VGA cable, several geometric figures were drawn on the screen, pixel by pixel, changing them and changing their position or color through board switches
